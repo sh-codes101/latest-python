@@ -7,4 +7,4 @@
 
 2. 🔫 **gun selection menu.py** = a simple terminal based python gun selection menu
 
-3. 👨‍💻 ** qrcode.py** = generate a simple qr code ans prints result on console
+3. 👨‍💻 **qrcode.py** = generate a simple qr code ans prints result on console
