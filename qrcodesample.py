@@ -1,4 +1,4 @@
-#make sure to download pillow and q code library ny doing pip install pillow , pip install qrcode
+#make sure to download pillow and qrcode library ny doing pip install pillow , pip install qrcode
 
 import qrcode #import qr code lib
 
