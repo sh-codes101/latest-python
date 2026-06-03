@@ -11,4 +11,5 @@
 
 ##Games   ->
 
-1. 💎 **stone,paper,scissor** = a simple terminal based childhood stone paper scissor game
+1. 💎 **stone,paper,scissor** = a simple terminal based childhood stone paper scissor 
+2. 😎 **Table book generator** = a simple table generator
